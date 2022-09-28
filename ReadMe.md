@@ -1,4 +1,4 @@
-## aws lambda scheduler 를 사용하여 크롤러 자동화 하기
+## aws lambda, event scheduler 를 사용하여 크롤러 자동화 하기
 
 
 ### 1. AWS Lambda 접속하기
